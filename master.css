@@ -1,0 +1,364 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color:#332f29;
+    padding-left: 5%;
+    opacity: 0.8;
+}
+.navbar-brand{
+    color: #ffffff !important; 
+    font-weight: bold;
+    font-size: 30px;
+}
+.collapse ul li a{
+    color: #ffffff !important;
+    font-weight: bold;
+}
+.nav-item .dropdown-menu{
+    background: #332f29;
+}
+.header-bg{
+    background-image: url('gggggg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 15px;
+    padding-left: 15px; 
+    padding-bottom: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    background-position: center;
+    
+}
+.header-bg .unique{
+    background-color: #332f29;
+    opacity: 0.8;
+    margin-left: 10%;
+    margin-top: 30%;
+    margin-right: 15%;
+    border: 1px solid black;
+    border-radius: 40px;
+}
+.unique h1{
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.unique p{
+    text-align: justify;
+    color: #ffffff;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.unique h5{
+    text-align: justify;
+    color: #ffffff;
+    font-size: 15px;
+}
+.unique h5 a{
+    color: #ffffff;
+    
+}
+.btn1{
+    border-radius: 50px;
+    border-color: #ffffff;
+    background: transparent;
+    color: #ffffff;
+    padding: 10px 15px 10px 15px;
+}
+.home h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+} 
+.card1 p{
+        color: #332f29;
+        text-align: center;
+}
+.card2{
+    width: 98%;
+    text-align: center;
+    background: #bfa98b;
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom:30px;
+    border-radius: 20px;
+    box-shadow: 0 0 8px #bfa98b;
+}
+.card3{
+    width: 98%;
+    text-align: center;
+    background: #bfa98b;
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom:30px;
+    border-radius: 20px;
+    box-shadow: 0 0 8px #bfa98b;
+}
+
+.card4{
+    color: #332f29;
+    text-align: center;
+}
+.home .end h6{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-style: italic;
+    color: #332f29;
+}
+.home .end h6 a{
+    color: #332f29;
+}
+.features-bg{
+    background-image: url('fgfggfgf-min.jpg');
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 15px;
+    padding-left: 15px; 
+   
+}
+.four-cards{
+        margin-top: -150px;
+}
+
+.card5{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    background: #ffffff;
+    box-shadow: 0 0 7px silver;
+    border-radius: 30px;
+    
+   
+}
+.card5 h1{
+    color: #bfa98b;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.card5- h4{
+    color: black;
+    font-weight: bold;
+}
+.card5 .card-text{
+    padding-left: 20px;
+    font-style: italic;
+}
+.card5 p{
+    text-align: left;
+}
+.features .end h6{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: #332f29;
+}
+.features .end h6 a{
+    color: #332f29;
+}
+.icons-bg{
+    background-image: url('ed-min.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+}
+.chocolate .row .row{
+    color: #ffffff !important;
+    margin-top: 150px;
+    
+}
+.card-1{
+    background: #000000;
+    opacity: 0.5;
+    text-align: center;
+    border-radius: 20px;
+}
+.card-1 i{
+    font-size: 60px;
+    color: #ffffff;
+} 
+.icons-bg .end h6{
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: #ffffff;
+}
+.icons-bg .end h6 a{
+    color: #ffffff;
+}
+
+/* .card-6{
+    background: #000000;
+    opacity: 0.5;
+    text-align: center;
+    border-radius: 20px;
+}
+.card-6 i{
+    font-size: 60px;
+}  */
+.popular{
+    background: #bfa98b;
+}
+.popular .heading{
+    color: #ffffff;
+   text-align: center;
+   padding-top: 80px;
+}
+.heading h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.card-2{
+    background: #ffffff;
+   border-radius: 20px;
+    box-shadow: 0 0 8px grey;
+}
+.card-2 .card-body h4{
+    color: #bfa98b;
+    font-weight: bold;
+    
+}
+.card-2 .card-body2 h4{
+    color: #bfa98b;
+    margin-top: 15px;
+    font-weight: bold;
+    
+}
+.card-2 .card-body2{
+    display: flex;
+    color: #bfa98b;
+}
+.card-2 .card-body2 button{
+    background: #bfa98b;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left:100px;
+    margin-bottom: 30px;
+    font-size: 17px;   
+}
+.popular .end h6{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: #ffffff;
+}
+.popular .end h6 a{
+    color: #332f29;
+}
+.vegetarian-bg{
+    margin-top: -8px;
+    background-image: linear-gradient(#1a1a1a, #404040);
+    /* height: 1010px; */
+}
+.image-1{
+    background-image: url('fff.jpg');
+    width: 100%;
+    /* height: 700px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.veg{
+    margin-top: 0 auto;
+    margin-right: 20px;
+}
+.veg .veg-body{
+    background: #ffffff;
+    color: #000000;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding: 25px;
+    opacity: 0.7;
+    
+}
+.veg .veg-body h1{
+    color: #332f29;
+}
+.veg .veg-body .btn{
+    color: #000000;
+    border: 3px solid #332f29;
+    padding: 10px;
+}
+.veg .veg-body .btn hover{
+    background: #bfa98b;
+    color: #ffffff;
+}
+.veg-body p{
+    font-size: large;
+}
+.cake-heading{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.cake-heading h1{ 
+    font-weight: bolder;
+    font-size: 50px;
+}
+.cake-dessert .end h6{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: #332f29;
+}
+.cake-dessert .end h6 a{
+    color: #332f29;
+}
+.cake-dessert .end p{
+    text-align: center;
+}
+.cake-dessert .star .btn{
+    color: #000000;
+    border: 3px solid #bfa98b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 20%;
+    font-weight: bold;
+    font-size: 30px;
+}
+.cake-dessert .btn hover{
+    background: #bfa98b;
+    color: #ffffff;
+}
+.image-2{
+     position: absolute;
+    padding-top: 40px;
+   box-shadow: 0 0 0.5px solid silver;
+   padding-left: 80px;
+
+} */
+.lower-1{
+    height: 200px;
+    background: #000000;
+}
+.contact-1 h1{
+    text-align: center;
+    font-weight: bolder;
+}
+.form-group .btn{
+    background-color: #000000;
+    font-weight: bolder;
+}
+footer{
+    background: #000000;
+    justify-content: center;
+    color: #ffffff;
+}
+.footer-1 h6{
+    padding-top: 40px;
+    text-align: center;
+}
+.footer-2 h6{
+    padding-top: 30px;
+    text-align: center;
+}
